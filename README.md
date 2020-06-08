@@ -12,7 +12,7 @@
 복수전공 : 소프트웨어융합대학 빅데이터 전공
 
 <관심분야>  
-* <<span style="color:red">빅데이터</span>
+* <span style="color:red">빅데이터</span>
 * R 프로그래밍 언어
 * 통계학
 
