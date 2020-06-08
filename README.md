@@ -4,5 +4,3 @@
 
 <img src="/증명사진.png" width="100" height="100">
 
-
-![이력서 사진](/증명사진.png){: width="100" height="100"}
