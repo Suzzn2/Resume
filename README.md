@@ -3,4 +3,5 @@
 ---
 ![이력서사진](증명사진.png)
 
-<img src=증명사진.PNG  width=130 height=130>
+<img src="증명사진.PNG"  width="100" height="100">
+
